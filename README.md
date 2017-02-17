@@ -3,7 +3,8 @@
 This repo will store biological constants metadata records. 
 
 To enables researchers/modelers to enter their biological constants and related metadata information, we designed a template for the user interface. An example follows in JSON format. 
-{
+
+```{
   "id": 1,
   "Biological constant symbol": "c1",
   "Biological constant brief description": "expression rate constant for IFNa",
@@ -17,3 +18,4 @@ To enables researchers/modelers to enter their biological constants and related 
   },
   "GO terms" : []
 }
+```
